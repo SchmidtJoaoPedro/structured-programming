@@ -1,0 +1,3 @@
+Fazer um Programa em C que leia a
+temperatura de uma pessoa e exibir a mensagem “Está com Febre” ou “Sem Febre”.
+Considere o valor base como 37.

@@ -1,0 +1,5 @@
+1 - Num concurso público, um candidato respondeu a uma avaliação com 10 questões de múltipla escolha, onde cada questão tinha resposta A até D. Fazer um programa em C  para ler o gabarito da prova e as respostas do aluno, informando quantas questões ele acertou.
+
+2 – Faça um programa em C que recebe 5 números inteiros e informa qual destes é maior. 
+
+3 - Faça um programa em C que, no momento de preencher um vetor com oito números inteiros, já os armazene de forma crescente.

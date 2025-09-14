@@ -1,0 +1,8 @@
+1. Faça um algoritmo que leia um número inteiro qualquer e mostre seu sucessor e seu
+antecessor na tela.
+
+2. Faça um algoritmo que leia um número inteiro e mostre a terça parte deste
+número.
+
+3. Construa um algoritmo que tendo como entrada dois pontos quaisquer do plano
+P(x1,y1) e Q(x2,y2), imprima a distância entre eles. A fórmula da distância é:

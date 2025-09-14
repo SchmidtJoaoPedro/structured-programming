@@ -1,0 +1,10 @@
+Faça o algoritmo e escreva o programa em C, usando a estrutura de repetição for dos seguintes problemas: 
+
+1. Dado um número n inteiro e positivo, dizemos que n é perfeito se n for igual à soma de seus divisores positivos diferentes de n. Construa um programa em C que verifica se um dado número é perfeito. Ex: 6 é perfeito, pois 1+2+3 = 6.
+
+2. Escreva um programa em C que gera números entre 1000 e 1999 e mostra aqueles que divididos por 11 dão resto 5.
+
+3. Calcular a área total de uma residência (sala, cozinha, quartos, etc., sendo todos eles retangulares). O usuário deverá entrar com a largura (L) e o comprimento (C) de cada cômodo da casa. Em seguida deverá ser apresentada uma pergunta, solicitando
+a confirmação do usuário para continuar com a entrada de dados (a confirmação será dada quando o usuário entrar com "S”). Caso ele entre com o valor "N”. Deverá ser apresentada a área total da casa.
+
+OBS: Não se esqueça de validar a entrada da resposta do usuário, que só pode aceitar os caracteres "S” ou "N.

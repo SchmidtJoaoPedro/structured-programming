@@ -1,0 +1,8 @@
+1. Faça um algoritmo para somar os números pares que forem menores que 100 e,
+ao final, imprime o resultado.
+
+2. Crie um programa que leia dois números (N e P) e calcule a potência N .
+Exemplo valores lidos 2 e 4, sendo assim teremos a base 2 elevada a potência 0
+até a potência 4.
+
+3. Faça um programa que leia a altura de 10 pessoas e depois imprime a maior altura.

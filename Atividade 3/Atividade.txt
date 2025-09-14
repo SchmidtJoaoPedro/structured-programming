@@ -1,0 +1,17 @@
+1 - Faça um algoritmo que leia um número fornecido pelo usuário, e se este
+número for positivo, calcular a raiz quadrada do número. Se o número for
+negativo, exibir uma mensagem dizendo que o número é inválido.
+
+2 - Escrever um algoritmo que leia um valor e retorne se é múltiplo de 5 ou não.
+
+3 - Para doar sangue é necessário ter entre 18 e 67 anos. Faça um algoritmo que
+pergunte a idade de uma pessoa e diga se ela pode doar sangue ou não. 
+
+4 - Faça um programa que receba a quantidade de pessoas que assistiram a uma
+partida de futebol e mostre as mensagens de acordo com a tabela:
+
+- menos que 1000 - "público baixo“
+
+- entre 1001 e 10000- "público médio“
+
+- acima de 10000 - "público bom“

@@ -1,0 +1,8 @@
+1 - Um distribuidor de refrigerantes vendeu seu produto em todo o país. Em cada
+trimestre do ano passado, ele vendeu uma certa quantidade de garrafas em cada
+região do Brasil. Faça um programa em C para ler as quantidades vendidas e escreva a quantidade total vendida em todo o país. Ver slide da aula de Matrizes  - Resposta: 20650 
+
+2 - Faça um programa que leia uma matriz 3 x 2 e mostre a matriz transposta ( 2 x 3).
+Exemplo: Ver  slide da aula de Matrizes 
+
+3. Fazer um programa em C que leia os valores de duas matrizes 3×3  e imprime a multiplicação das duas matrizes. Ver slide da aula de Matrizes.

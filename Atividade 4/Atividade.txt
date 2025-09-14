@@ -1,0 +1,4 @@
+1. Faça um algoritmo/PROGRAMA que imprima 10 vezes a frase “Ciência da
+Computação”.
+
+2. Faça um algoritmo/PROGRAMA que mostre os 20 primeiros números pares.
